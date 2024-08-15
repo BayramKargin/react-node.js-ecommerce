@@ -24,11 +24,12 @@ Bu proje ile çalışmaya başlamadan önce aşağıdaki adımları takip ederek
    ```bash
    git clone https://github.com/kullaniciadi/proje-adi.git
    cd proje-adi
-
+ ```bash
 cd frontend
 npm install
 # veya yarn install
-
+````
+```bash
 cd backend
 npm install
 # veya yarn install
